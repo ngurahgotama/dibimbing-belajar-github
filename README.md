@@ -1,13 +1,15 @@
-# Assignment Day 3 - GIT
-Repository ini dibuat sebagai bagian dari latihan untuk belajar penggunaan Git dan GitHub.
+# Belajar Repository GIT
+Kali ini saya berkesempatan untuk menggunakan sebuah tool yang penting dalam pengembangan sebuah aplikasi. Saya mengikuti Bootcamp Data Engineer dari Dibimbing dan materi GIT merupakan salah satu assignment tes yang perlu dikerjakan. Sebagai orang awam dengan dunia IT, saya cukup kewalahan dalam mempelajari istilah-istilah yang digunakan sebagai perintah dalam penggunaan tool GIT. Oleh karena itu, dengan berbagai keterbatasan saya akan menceritakan bagaimana penggunaan tool GIT dalam konteks kasus yang lumayan sederhana.
 ## Instalasi
-Untuk menggunakan proyek ini, perlu memiliki Git diinstal di komputer. Jika belum, dapat mengunduhnya dari [situs resmi Git](https://git-scm.com/downloads).
+Untuk melakukan proyek sederhana ini, perlu memiliki Git yang diinstal di komputer. Jika belum, dapat mengunduhnya dari [situs resmi Git](https://git-scm.com/downloads). Selain itu, perlu juga memiliki akun github dimana merupakan versi GIT yang berbasis online untuk lebih jelasnya bisa mengunjungi (https://github.com/). Pada proyek ini, karena memerlukan bahasa pemograman python, saya mencoba memanfaatkan Miniconda yang merupakan versi mini dari Anaconda sebagai salah paket environtment yang membantu dalam pengembangan yang berbasis python. 
 ## Buat Repository di GitHub
-1. Buka browser dan pergi ke GitHub.
+1. Buka browser dan kunjugi GitHub.
 2. Login ke akun GitHub .
 3. Klik tombol "+" di pojok kanan atas, kemudian pilih "New repository".
 4. Beri nama repository "dibimbing-belajar-github".
 5. Klik tombol "Create repository".
+
+Pada tahapan pertama, repository github "dibimbing-belajar-github" sepertinya sudah berhasil dibuat. Dari repository ini, dilakukan tahapan kloning yang secara awam saya artikan sebagai proses repository di github dibawa ke lokal komputer untuk bisa berinteraksi satu sama lain. Untuk melakukan kloning pada github, perlu beberapa tahapan yang perlu dilakukan dimana untuk lebih jelasnya bisa dipelajari pada (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Pada kali ini, saya akan menampilkan proses  singkat untuk melakukan kloning repositori yang sudah saya buat pada akun github.
 
 ![image](https://github.com/ngurahgotama/dibimbing-belajar-github/assets/124243915/e56658bc-1bde-4016-9255-e62f13ef99fb)
 
@@ -19,6 +21,8 @@ Untuk melakukan clone repository, jalankan perintah berikut di terminal:
 git clone https://github.com/ngurahgotama/dibimbing-belajar-github.git
 ```
 ![image](https://github.com/ngurahgotama/dibimbing-belajar-github/assets/124243915/de98af82-9755-4885-a35c-208986536a69)
+
+Pada tambilan gambar diatas menunjukan bahwa sudah berhasil melakukan kloning repository ke komputer local. Tahapan selanjutnya adalah mencoba untuk mengunjungi repository hasil kloningan di komputer local dan menambahkan file berformat CSV sebagai data dalam latihan ini. 
 
 
 ## Buat file Python

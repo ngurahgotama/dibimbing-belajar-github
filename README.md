@@ -84,6 +84,21 @@ git clone https://github.com/ngurahgotama/dibimbing-belajar-github.git
 
 ![image](https://github.com/ngurahgotama/dibimbing-belajar-github/assets/124243915/045043b7-bfa2-4089-8b0f-d07aeae26d17)
 
+6. Dokumentasi dari latihan ini menggunakan README dimana file dibuat pada github. Agar file tersebut juga tersipan pada local komputer perlu melakukan metode pull request. Pertama aktifkan brach utama dengan perintah berikut:
+ ```bash
+  git checkout main
+  ```
+7. Setelah brach main aktif, lakukan perintah berikut pada terminal lokal
+ ```bash
+  git pull
+  ```
+8. Berikut adalah tampilan dari file readme yang telah berhasil di pull dari github
+
+![image](https://github.com/ngurahgotama/dibimbing-belajar-github/assets/124243915/dca2ab56-ef08-4d39-a89e-02e351954a5a)
+
+   
+
+
 ## Kesimpulan
 Dalam latihan ini, kita belajar tentang penggunaan dasar Git dan GitHub. Langkah-langkahnya meliputi membuat repository di GitHub, mengunduhnya ke komputer lokal, membuat perubahan pada file Python, membuat branch baru, melakukan commit dan push, membuka pull request di GitHub, dan menggabungkan perubahan dari branch fitur ke branch master/main. Ini adalah langkah-langkah dasar yang dapat membantu kita memahami cara menggunakan Git dan GitHub untuk mengelola proyek perangkat lunak secara efisien.
 

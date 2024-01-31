@@ -77,9 +77,10 @@ git clone https://github.com/ngurahgotama/dibimbing-belajar-github.git
 
 
 3. Tampilan akan sebagai berikut:
+   
 ![image](https://github.com/ngurahgotama/dibimbing-belajar-github/assets/124243915/30f791a8-2eb4-481f-8c17-890312fc151b)
 
-4. Feature terbaru untuk membaca file csv sudah ditambahkan
+5. Feature terbaru untuk membaca file csv sudah ditambahkan
 
 ![image](https://github.com/ngurahgotama/dibimbing-belajar-github/assets/124243915/045043b7-bfa2-4089-8b0f-d07aeae26d17)
 
